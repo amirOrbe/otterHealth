@@ -9,7 +9,7 @@ defaultContentLanguage = "es"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Coach de Nutrición y Consultora Culinaria"
+title = "OtterHealth - Tu guía segura para una alimentación sana"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,7 +38,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Coach de Nutrición y Consultora Culinaria"
+    title = "OtterHealth - Tu guía segura para una alimentación sana"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Coach de Nutrición y Consultora Culinaria"
@@ -52,7 +52,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© OtterHealth"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don't :-)
@@ -65,7 +65,7 @@ enableEmoji = true
     image_options = "webp q90 lanczos photo"
 
     # Use "page_title | site_title" for <title> tags
-    # e.g. <title>Legal | Jane Doe - Coach de Nutrición y Consultora Culinaria</title>
+    # e.g. <title>Legal | OtterHealth - Coach de Nutrición y Consultora Culinaria</title>
     combine_page_and_site_title = false
 
     [params.footer]
@@ -107,9 +107,3 @@ enableEmoji = true
     weight = 20
     languageName = "English"
     contentDir = "content/en"
-
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-    weight = 30
-    contentDir = "content/de"
-    languageName = "Deutsch"

@@ -2,8 +2,8 @@
 header_image: "images/cover-image.jpg"
 header_use_video: false
 header_logo: "images/chef-hat.png"
-header_headline: "Jane Doe"
-header_subheadline: "Coach de <b>Nutrición</b> y Consultora <b>Culinaria</b>"
+header_headline: "OtterHealth"
+header_subheadline: "Tu guía segura para una <b>alimentación</b> <b>sana</b>"
 
 nav_to_top_title: "Volver Arriba"
 nav_to_top_weight: last
@@ -11,9 +11,9 @@ nav_to_top_weight: last
 
 ## Sobre Mí
 
-¡Hola! Soy Jane Doe, una apasionada coach de nutrición y consultora culinaria dedicada a ayudar a las personas a alcanzar sus objetivos de salud y bienestar a través de una alimentación balanceada y deliciosa.
+¡Hola! Soy OtterHealth, una apasionada coach de nutrición y consultora culinaria dedicada a ayudar a las personas a alcanzar sus objetivos de salud y bienestar a través de una alimentación balanceada y deliciosa.
 
-## Mis Servicios
+## Mis Especialidades
 
 ### Coaching de Nutrición
 - Planes de alimentación personalizados

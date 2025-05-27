@@ -1,16 +1,16 @@
 ---
-title: "Los Servicios que Ofrezco"
-header_menu_title: "Servicios"
-navigation_menu_title: "Mis Servicios"
+title: "Las Especialidades que Ofrezco"
+header_menu_title: "Especialidades"
+navigation_menu_title: "Mis Especialidades"
 weight: 2
 header_menu: true
 ---
 
 Nota de características: Esta sección muestra opciones para personalizar el título:
 
-- tiene un título de sección normal (`title` = "Los Servicios que Ofrezco"),
-- título personalizado en la pantalla de bienvenida (`header_menu_title` = "Servicios"),
-- título personalizado en el menú de navegación (`navigation_menu_title` = "Mis Servicios").
+- tiene un título de sección normal (`title` = "Las Especialidades que Ofrezco"),
+- título personalizado en la pantalla de bienvenida (`header_menu_title` = "Especialidades"),
+- título personalizado en el menú de navegación (`navigation_menu_title` = "Mis Especialidades").
 
 Esa es la parte importante, ¿verdad? Quieres saber qué puedo hacer por ti. Por eso lo puse justo ahí en el menú de encabezado del sitio web.
 
@@ -51,4 +51,4 @@ Probablemente tendrás que pagar por esto.
 
 ![Empecemos con una pizarra limpia](images/woman-pouring-juice-on-glass-3184192.jpg)
 
-¿Quieres saber más sobre mis servicios? Ve la [página dedicada](services) con más detalles. 
+¿Quieres saber más sobre mis especialidades? Ve la [página dedicada](services) con más detalles. 

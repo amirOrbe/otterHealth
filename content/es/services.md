@@ -1,8 +1,8 @@
 ---
-title: "Servicios"
+title: "Especialidades"
 ---
 
-Esta es una página sobre los servicios que ofrezco.
+Esta es una página sobre las especialidades que ofrezco.
 
 Contiene muchos más detalles que lo que pongo en la página principal - ¡te lo aseguro!
 
